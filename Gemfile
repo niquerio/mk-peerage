@@ -6,7 +6,7 @@ gem 'rails', '~> 6.0.3'
 gem 'pg', '~> 0.21.0' #set for heroku
 #gem 'mysql2', '>= 0.3.18', '< 0.5'
 # Use Puma as the app server
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 4.3'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
